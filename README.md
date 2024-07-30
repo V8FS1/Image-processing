@@ -11,7 +11,8 @@ The project includes three main approaches to feature extraction from digit imag
 A neural network model is used to classify the digits based on these features.
 
 ## Files
-* image_processing_code.py: Contains the code for feature extraction, model training, and evaluation. This file includes three versions of the code demonstrating different feature extraction methods.
+* image Processing_report: a small report that offers a clear comparison between the 3 methods
+* image_Processing_code.py: Contains the code for feature extraction, model training, and evaluation. This file includes three versions of the code demonstrating different feature extraction methods.
 
 ## Features
 * Image Moments: Statistical moments derived from contours in the images.
